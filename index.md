@@ -1,7 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<title> Research Page </title>
+
 </head>
 <!-- tag a) Correct HTML structure tags-->
 
