@@ -21,7 +21,6 @@
 <hr color="green"width=50%">
 <!-- tag g) A tag that displays a colored horizontal line-->
 
-<img src="Research.jpg"width="350"height="150">
 <!-- tag d) At least 2 image tags (one)-->
 <br>
 <a href="https://youtu.be/oNlcAe-eXxc">----->Link to Presentation<-----</a>
